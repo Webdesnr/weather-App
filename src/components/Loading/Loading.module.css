@@ -1,0 +1,12 @@
+.rotate {
+  animation: rotateAni 3s infinite;
+}
+
+@keyframes rotateAni {
+  from {
+    rotate: 0deg;
+  }
+  to {
+    rotate: 360deg;
+  }
+}
